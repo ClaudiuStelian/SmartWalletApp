@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".upload_pdf">
+
+    <TextView
+        android:id="@+id/text_pdf"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#3c415e"
+        android:gravity="center"
+        android:text="Upload PDF"
+        android:textColor="#fff"
+        android:textSize="25dp" />
+
+    <EditText
+        android:id="@+id/pdfname"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/text_pdf"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="258dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="386dp"
+        android:background="@drawable/rounded"
+        android:gravity="center" />
+
+    <Button
+        android:id="@+id/upload_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/pdfname"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="-336dp"
+        android:layout_marginRight="25dp"
+        android:background="@drawable/rounded"
+        android:gravity="center"
+        android:text="Upload"
+        android:textAllCaps="false"
+        android:textSize="21dp" />
+
+    <ImageView
+        android:id="@+id/back_btn"
+        android:layout_width="76dp"
+        android:layout_height="49dp"
+        android:onClick="BackBtn"
+        app:srcCompat="@drawable/ic_left" />
+
+
+</RelativeLayout>

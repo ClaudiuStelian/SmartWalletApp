@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">SmartWallet</string>
+    <string name="googlepay_button_content_description">Google Pay</string>
+    <string name="title_activity_register">Register</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="create_account">Create Account</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="email_address">Email address</string>
+    <string name="password">Password</string>
+    <string name="repeat_password">Repeat Password</string>
+    <string name="register">register</string>
+    <string name="login">Login</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ticket">TICKET</string>
+    <string name="dubai">Dubai</string>
+    <string name="hkg">HKG</string>
+    <string name="_03_25_pm">03:25 PM</string>
+    <string name="mon_23_mar_2021">Mon, 23 Mar 2021</string>
+    <string name="romania">Romania</string>
+    <string name="todo1">TODO</string>
+    <string name="dfg">DFG</string>
+    <string name="_10_25_pm">10:25 PM</string>
+    <string name="mon_21_mar_2021">Mon, 23 Mar 2021</string>
+    <string name="passenger">PASSENGER</string>
+    <string name="claudiu_stelian">Claudiu Stelian</string>
+    <string name="seast">SEAST</string>
+    <string name="_7a">7A</string>
+    <string name="flight">FLIGHT</string>
+    <string name="smi_245422">SMI 245422</string>
+    <string name="gate">GATE</string>
+    <string name="_5r">5R</string>
+    <string name="boarding">BOARDING</string>
+    <string name="_03_30_pm">03:30 PM</string>
+    <string name="todo">TODO</string>
+    <string name="print">Print</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_ticket_page">ticket_page</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_ticket_list">ticket_list</string>
+    <string name="facebook">Facebook</string>
+    <string name="your_name">Your name</string>
+    <string name="company_name">company name</string>
+    <string name="phone_number">Phone number</string>
+    <string name="company_address">Company Address</string>
+
+</resources>
